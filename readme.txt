@@ -1,3 +1,3 @@
-I am good
+I am GPLgod
 
 这是第二行
